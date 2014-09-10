@@ -3,7 +3,7 @@
 
 ##Linear motion parts for OpenBuilds linear rail
 
-##I have constructed several linear motion devices using OpenBuilds linear rail and commercially printed 3D parts. for the most part, this has worked well. The most consistent parts, in terms of dimensional accuracy, have been from Ponoko.
+###I have constructed several linear motion devices using OpenBuilds linear rail and commercially printed 3D parts. for the most part, this has worked well. The most consistent parts, in terms of dimensional accuracy, have been from Ponoko.
 
 ### bearing-mount
 

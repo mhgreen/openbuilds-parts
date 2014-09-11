@@ -9,6 +9,9 @@ I have constructed several linear motion devices using OpenBuilds linear rail an
 
 The bearing mount is intended to be used with a 19mm outside diameter bearing that is 7mm thick. The inside diameters that I have used are 8mm and 10mm depending on the lead screw or shaft size. The mount is sized for a thrust bearing with an 18mm outside diameter to be placed on top.
 
+One source for the 10x19x7 bearing: http://www.vxb.com/page/bearings/PROD/kit773
+A source for the 10x10x5.5 thrust bearing: http://www.vxb.com/page/bearings/PROD/Kit7156
+
 ### NEMA17 mount
 
 The NEMA17 mount is placed on the end of a piece of OpenBuilds linear rail or Makerslide. The stepper mount is sized to work with the bearing mount.

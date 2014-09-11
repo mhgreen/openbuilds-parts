@@ -18,7 +18,7 @@ The NEMA17 mount is placed on the end of a piece of OpenBuilds linear rail or Ma
 
 ### 13mm bearing brackets
 
-This is a pair of brackets for 20 tooth MXL or GT2 timing pulleys. A left and right bearing bracket are attached to the ends of OpenBuilds rail. Thrust bearings and shaft collars keep the shafts positioned. There is an example assembly picture in the part folder.
+This is a pair of brackets for 20 tooth MXL or GT2 timing pulleys. A left and right bearing bracket are attached to the ends of OpenBuilds rail. Thrust bearings and shaft collars keep the shafts positioned. There is an example assembly picture and Inventor assembly in the part folder.
 
 One source for MXL timing pulleys, shafts and couplers is SDP/SI: http://www.sdp-si.com/eStore/Catalog. A source for threaded hex standoffs is McMaster: http://www.mcmaster.com/
 

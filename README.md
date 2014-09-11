@@ -34,7 +34,7 @@ M4 6mm X 30mm threaded hex standoff | http://www.mcmaster.com/#95947a250/=toghps
 
 #### NEMA 17 extended mount
 
-Used with a dual shaft NEMA 17 stepper to drive belts using the 13mm bearing brackets. Mounted on Misumi 5 series extrusions with brackets. There is an example assembly and picture in the part folder.
+Used with a dual shaft NEMA 17 stepper to drive belts using the 13mm bearing brackets. Mounted on Misumi 5 series extrusions with brackets. There is an example assembly and picture in the part folder. Mounted to extrusion with four Misumi brackets: http://us.misumi-ec.com/vona2/detail/110300437260/?HissuCode=HBLFSN5&PNSearch=HBLFSN5&Keyword=HBLFSN5.
 
 ### Example assemblies
 

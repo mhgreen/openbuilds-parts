@@ -44,4 +44,13 @@ Here are some example assemblies to show how the parts work together.
 
 An assembly showing how the NEMA 17 extended mount can be used with the bearing brackets to drive a Y axis.
 
+SDP/SI part numbers for long shaft and 5/6 mm shaft coupler.
+
+Description | Part
+----------------------------------------------------------------------------------------- | ------------------------------
+6 (-.004/-.012) Dia, 280mm Long, 416 Stainless Steel Shaft | http://www.sdp-si.com/eStore/Catalog/PartNumber/S40PX0MHG6M-280
+Slit Type Plastic Couplings, 5 / 6mm Bores, 28mm Overall Length, Coupling Material: Plastic | http://www.sdp-si.com/eStore/Catalog/PartNumber/S50TLCM19H05H06
+
+The smaller 18mm coupler can also be used and shaft length depends on desired x axis width.
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">openbuilds-parts</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Michael Green</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

@@ -18,19 +18,9 @@ The NEMA17 mount is placed on the end of a piece of OpenBuilds linear rail or Ma
 
 #### 13mm bearing brackets
 
-This is a pair of brackets for 20 tooth MXL or GT2 timing pulleys. A left and right bearing bracket are attached to the ends of OpenBuilds rail. Thrust bearings and shaft collars keep the shafts positioned. There is an example assembly picture and Inventor assembly in the part folder.
+This is a pair of brackets for 20 tooth MXL or GT2 timing pulleys. A left and right bearing bracket are attached to the ends of OpenBuilds rail. Thrust bearings and shaft collars keep the shafts positioned.
 
-One source for MXL timing pulleys, shafts and couplers is SDP/SI: http://www.sdp-si.com/eStore/Catalog. A source for threaded hex standoffs is McMaster: http://www.mcmaster.com/
-
-SDP/SI part numbers for MXL pulley, shaft, thrust washer, and shaft collar
-
-Description | Part
------------------------------------------------------------------------------------------ | ------------------------------
-2.03 mm (MXL) Pitch,20 Teeth, 6mm Bore, Aluminum T-Insert, Polycarbonate Timing Pulley for 6mm Wide Belt | http://www.sdp-si.com/eStore/Catalog/PartNumber/A%206T16M020DF6006
-6 (-.004/-.012) Dia, 80mm Long, 416 Stainless Steel Shaft | http://www.sdp-si.com/eStore/Catalog/PartNumber/S40PX0MHG6M-080
-A 7Z 7M0614 Comprised of 2 Washers and a Retainer with Balls | http://www.sdp-si.com/eStore/Catalog/PartNumber/A%207Z%207M0614
-6mm Bore, 16mm Outside Diameter, 8mm Width, Plain Collar, manufactured from Zinc Plated | http://www.sdp-si.com/eStore/Catalog/PartNumber/A%207Z%202M116060
-M4 6mm X 30mm threaded hex standoff | http://www.mcmaster.com/#95947a250/=toghps
+An example assembly and bill of materials can be found in the end support assembly folder (see below).
 
 #### NEMA 17 extended mount
 
@@ -52,5 +42,9 @@ Description | Part
 Slit Type Plastic Couplings, 5 / 6mm Bores, 28mm Overall Length, Coupling Material: Plastic | http://www.sdp-si.com/eStore/Catalog/PartNumber/S50TLCM19H05H06
 
 The smaller 18mm coupler can also be used and shaft length depends on desired x axis width.
+
+#### end support assembly
+
+Detail for using the bearing brackets. There is an assembly example and picture in this folder. This is a detailed look at the assemblies contained in the v-slot-belt Y example.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">openbuilds-parts</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Michael Green</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

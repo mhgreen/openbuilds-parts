@@ -47,7 +47,7 @@ The smaller 18mm coupler can also be used and shaft length depends on desired x 
 
 #### end support assembly
 
-<video src="https://github.com/mhgreen/openbuilds-parts/blob/master/example%20assemblies/end%20support%20assembly/end-support-assembly.mp4" width="320" height="200" controls preload></video>
+<video src="/example%20assemblies/end%20support%20assembly/end-support-assembly.mp4" width="320" height="200" controls preload></video>
 
 Detail for using the bearing brackets. There is an assembly example and picture in this folder. This is a detailed look at the assemblies contained in the v-slot-belt Y example.
 
